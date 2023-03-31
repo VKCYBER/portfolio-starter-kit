@@ -1,7 +1,7 @@
 const YEAR = new Date().getFullYear()
 
 export default {
-  footer: (
+  Vkcyber: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
       <time>{YEAR}</time> © VKCYBER.
       <a href="/feed.xml">RSS</a>
